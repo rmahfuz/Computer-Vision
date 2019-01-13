@@ -1,0 +1,2 @@
+In this assignment for face recognition and object detection using AdaBoost algorithm, I have omitted the data directories because they are proprietary information that I had access to only for educational purposes.
+I have also omitted the test_neg.npy, test_pos.npy, train_neg.npy and train_pos.npy files because of their large size.
