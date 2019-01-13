@@ -1,0 +1,31 @@
+beach_1.jpg is correctly classified as beach
+beach_2.jpg is correctly classified as beach
+beach_3.jpg is incorrectly classified as car
+beach_4.jpg is correctly classified as beach
+beach_5.jpg is correctly classified as beach
+building_1.jpg is correctly classified as building
+building_2.jpg is incorrectly classified as mountain
+building_3.jpg is incorrectly classified as car
+building_4.jpg is incorrectly classified as mountain
+building_5.jpg is incorrectly classified as car
+car_1.jpg is correctly classified as car
+car_2.jpg is incorrectly classified as beach
+car_3.jpg is correctly classified as car
+car_4.jpg is correctly classified as car
+car_5.jpg is correctly classified as car
+mountain_1.jpg is correctly classified as mountain
+mountain_2.jpg is correctly classified as mountain
+mountain_3.jpg is incorrectly classified as car
+mountain_4.jpg is incorrectly classified as car
+mountain_5.jpg is correctly classified as mountain
+tree_1.jpg is incorrectly classified as mountain
+tree_2.jpg is correctly classified as tree
+tree_3.jpg is incorrectly classified as mountain
+tree_4.jpg is correctly classified as tree
+tree_5.jpg is incorrectly classified as building
+Confusion matrix:  
+[[4. 0. 1. 0. 0.]
+ [0. 1. 2. 2. 0.]
+ [1. 0. 4. 0. 0.]
+ [0. 0. 2. 3. 0.]
+ [0. 1. 0. 2. 2.]]
